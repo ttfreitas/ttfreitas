@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ttfreitas
+- 🌱 I’m currently learning coding languages
+- 📫 You can reach me through my e-mail thiagotavares.freitas@gmail.com
